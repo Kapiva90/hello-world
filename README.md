@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-This is my first repository...
+Hello Earth!
+
+The name is Varela, Kat Varela, and I am commiting changes left and right! 
